@@ -15,7 +15,7 @@ This project explores unpaired image-to-image translation using the Unsupervised
 ## How to Run This Project-
 To replicate the analysis:
 ```bash
-git clone https://github.com/saivivek55/Unpaired-Image-to-Image-Translation.git
+git clone https://github.com/faraazzz/Unpaired-Image-to-Image-Translation.git
 cd Unpaired-Image-to-Image-Translation
 # Ensure you have the necessary Python packages installed
 # Open the Jupyter Notebook 'Pix2Pix & Unit_Image Translation.ipynb' to view the implementation
